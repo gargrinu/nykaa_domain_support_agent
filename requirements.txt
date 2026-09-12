@@ -1,0 +1,24 @@
+# RAG
+chromadb
+scikit-learn
+
+# CrewAI
+crewai
+
+# LangChain Memory
+langchain
+langchain-core
+
+# FastAPI
+fastapi
+uvicorn
+
+# Data Validation
+pydantic
+
+# Environment Variables
+python-dotenv
+
+# AutoGen Review Stage
+autogen-agentchat
+autogen-core
