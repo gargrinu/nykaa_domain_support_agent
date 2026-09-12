@@ -1,0 +1,1 @@
+If a payment attempt fails, customers may retry the payment using the same or a different payment method. Failed transactions are not considered confirmed orders unless payment is successfully completed. Any temporary payment authorization holds are released according to banking timelines.

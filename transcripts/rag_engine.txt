@@ -1,0 +1,8 @@
+What is the warranty on electronics? 0.33454329116510395
+What happens if payment fails? 0.406235060615834
+Who won the IPL in 2020? 0.08914448617495098
+How do I bake a cake? 0.0
+Cache Miss | RAG Call #1
+Top Similarity: 0.2242
+Query: Can I cancel an order?
+Answer: Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.

@@ -1,0 +1,130 @@
+{
+    "per_query_results": [
+        {
+            "query": "What is the return window for Beauty products?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How long do COD refunds take?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "What are the delivery timelines?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How does reverse pickup work?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "What is the warranty on electronics?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "Can I cancel an order after shipment?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How can loyalty points be redeemed?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "What happens if a payment fails?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How does size exchange work?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How do I report a damaged item?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "Are there international shipping restrictions?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How are support requests escalated?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "What is the return period for apparel items?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "Who won the IPL in 2020?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        },
+        {
+            "query": "How do I bake a cake?",
+            "answer": "Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.",
+            "accuracy": 4,
+            "grounding": 4,
+            "completeness": 5,
+            "safety": 5
+        }
+    ],
+    "average_scores": {
+        "accuracy": 4.0,
+        "grounding": 4.0,
+        "completeness": 5.0,
+        "safety": 5.0
+    }
+}

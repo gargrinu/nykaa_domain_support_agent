@@ -1,0 +1,123 @@
+What is the return window for Beauty products? 0.28392180216615587
+What are the delivery timelines? 0.20893887816136433
+Can I cancel an order? 0.22422951640858713
+What is the warranty on electronics? 0.33454329116510395
+What happens if payment fails? 0.406235060615834
+Who won the IPL in 2020? 0.08914448617495098
+How do I bake a cake? 0.0
+Cache Miss | RAG Call #1
+Top Similarity: 0.2242
+Query: Can I cancel an order?
+Answer: Once an order has entered the shipping process, cancellation requests may no longer be accepted. If an order is refunded, redeemed loyalty points may be credited back according to the applicable reward program rules. Loyalty points can be redeemed during checkout on eligible purchases.
+LLM-AS-JUDGE EVALUATION
+Cache Hit
+
+Query: What is the return window for Beauty products?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How long do COD refunds take?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: What are the delivery timelines?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How does reverse pickup work?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: What is the warranty on electronics?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: Can I cancel an order after shipment?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How can loyalty points be redeemed?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: What happens if a payment fails?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How does size exchange work?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How do I report a damaged item?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: Are there international shipping restrictions?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How are support requests escalated?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: What is the return period for apparel items?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: Who won the IPL in 2020?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+Cache Hit
+
+Query: How do I bake a cake?
+Accuracy: 4
+Grounding: 4
+Completeness: 5
+Safety: 5
+
+AVERAGE SCORES
+Accuracy: 4.0
+Grounding: 4.0
+Completeness: 5.0
+Safety: 5.0

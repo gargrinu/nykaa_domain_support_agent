@@ -1,0 +1,1 @@
+Orders can be cancelled before they are shipped from the fulfillment center. Once an order has entered the shipping process, cancellation requests may no longer be accepted. Customers may instead initiate a return after delivery if the item is eligible under the return policy.

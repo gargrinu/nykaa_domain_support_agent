@@ -1,0 +1,1 @@
+{'allowed': False, 'message': 'Request rejected. Token budget exceeded.', 'token_count': 250}

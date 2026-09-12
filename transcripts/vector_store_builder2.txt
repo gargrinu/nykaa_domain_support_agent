@@ -1,0 +1,17 @@
+Loading Knowledge Base Documents...
+Loaded 12 documents.
+
+Indexing Fixed-Size Chunks...
+Indexed 19 fixed-size chunks.
+
+Indexing Sentence-Based Chunks...
+Indexed 37 sentence chunks.
+
+INDEXING SUMMARY:
+Documents Loaded          : 12
+Fixed Chunks Indexed      : 19
+Sentence Chunks Indexed   : 37
+Fixed Collection Count    : 19
+Sentence Collection Count : 37
+
+ChromaDB collections created successfully.

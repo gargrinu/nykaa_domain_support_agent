@@ -1,0 +1,28 @@
+Dataset saved to: data/orders.json
+NYKAA ORDER DATASET SUMMARY:
+
+Seed: 42
+Total Orders: 50
+
+CATEGORY COUNTS:
+Beauty: 11
+Apparel: 7
+Home: 13
+Footwear: 7
+Electronics: 12
+
+STATUS COUNTS:
+Placed: 8
+Shipped: 12
+Delivered: 17
+Returned: 8
+Refunded: 5
+
+DELAYED SHIPMENT STATISTICS:
+Delayed Orders: 10
+Delayed Percentage: 20.00%
+
+VALIDATION RESULTS:
+All categories >= 3 records: True
+All statuses >= 1 record: True
+Delayed shipment between 10%-30%: True
